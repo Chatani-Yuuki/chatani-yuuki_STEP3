@@ -1,0 +1,43 @@
+.sample1 { 
+        width: 100%;
+        height: 80px;
+        text-align: center;
+        line-height: 80px;
+        }
+
+.sample2 { 
+        width: 70%;
+        height: 70px;
+        }
+
+header {
+        background-color: aqua;
+        padding: 5px;
+        text-align: center;  
+        }
+
+main    {  
+        display: flex;
+        min-height: 100px;
+        }
+
+nav     {
+        width: 200px;
+        background-color: blueviolet;
+        padding: 15px;
+        }
+
+section {
+        flex: 1;
+        background-color: chocolate;
+        padding: 20px;
+        }
+
+footer  {
+        background-color: grey;
+        height: 50px;
+        }
+        
+nav a   {
+        color: aliceblue;
+        }
